@@ -248,3 +248,163 @@ body{
     font-weight:normal;
     color:#F5F500;
 }
+
+@media(max-width: 800px){
+  
+    .orangeHeader {
+        width: 100vw;
+        height: 40vh;
+        top: 0;
+        position:fixed;
+        background-color: #FF9900;
+    }  
+    .onestop {
+        color: #00000000;
+    }
+    .onlineshop {
+        color: #00000000;
+    
+    }  
+    .query{
+        color: #00000000;
+        -webkit-text-stroke: #00000000;;
+    }
+    
+    .scamazon {
+        position: fixed;
+        top: 3vh;
+        left: 3vw;
+        font-weight:normal;
+        font-size: 10vh;
+        color: #004CFF;
+        text-shadow: 2vh 1.5vh #00FF4C;
+    }
+    
+    .ourproducts {
+        position: fixed;
+        font-weight:normal;
+        color: #FFEE00;
+        left:3vw;
+        font-size: 4vh;
+        top: 23vh;
+        position:fixed;
+        transform: rotate(18deg);
+        text-decoration: underline;
+    }
+    
+    .savesalots {
+        position: fixed;
+        font-weight:normal;
+        color: #FF4DCF;
+        left:33vw;
+        font-size: 4vh;
+        top: 23vh;
+        position:fixed;
+        transform: rotate(18deg);
+        text-decoration: underline;
+    }
+    
+    .instore {
+        position: fixed;
+        font-weight:normal;
+        color: #00FF4C;
+        left:63vw;
+        font-size: 4vh;
+        top: 23vh;
+        position:fixed;
+        transform: rotate(18deg);
+        text-decoration: underline;
+    }
+    
+    .emptyhirings {
+        position: fixed;
+        font-weight:normal;
+        color: #FF002B;
+        left:83vw;
+        font-size: 4vh;
+        top: 23vh;
+        position:fixed;
+        transform: rotate(18deg);
+        text-decoration: underline;
+    }
+    
+    .redBody{
+        width: 100vw;
+        height: 65vh;
+        top: 40vh;
+        position:fixed;
+        background-color: #FF0000;
+    }
+    
+    .cashierpicbox {
+        position: fixed;
+        bottom: 5vh;
+        left: 45vw;
+        width: 200px;
+        height: 140px
+    }
+
+    .cashierpic  {
+        opacity: .0;
+    }
+
+    .boxpic {
+        opacity: .0;
+    }
+    
+    .snacks {
+        opacity: .0;
+    }
+    
+    .tech {
+        opacity: .0;
+    }
+    
+    .cart {
+        position: fixed;
+        width: auto;
+    }
+    
+    .refresh {
+        opacity: .0;
+    }
+    
+    .newLocation {
+        opacity: .0;
+    }
+    
+    .on {
+        opacity: .0;
+    }
+    
+    .ninth {
+        opacity: .0;
+    }
+    
+    .clickHere {
+        opacity: .0;
+    }
+    
+    .clickHerecart {
+        opacity: .0;
+    }
+    
+    .goodSnacks{
+        opacity: .0;
+    }
+    
+    .greatDeals{
+        opacity: .0;
+    }
+    
+    .delivery {
+        opacity: .0;
+    }
+    .available {
+        opacity: .0;
+    }
+    
+    .nicePeople{
+        opacity: .0;
+    }
+}
